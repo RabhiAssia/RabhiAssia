@@ -6,7 +6,7 @@ I'm an Artificial Intelligence Master's student at **Université Constantine 2**
 
 My interests include Machine Learning, Deep Learning, Computer Vision, and Data Science. I enjoy experimenting with AI models, working with data, and turning ideas into practical solutions.
 
-Currently exploring **Agentic AI, Advanced Machine Learning, and MLOps**.
+Currently exploring **Agentic AI, Advanced Machine Learning**.
 
 ## 👩‍💻 About Me
 
@@ -53,7 +53,7 @@ My graduation project, combining Artificial Intelligence, Computer Vision, and N
 
 - Agentic AI & AI Agents
 - Advanced Machine Learning
-- MLOps and Model Deployment
+
 
 ## 📫 Let's Connect!
 
