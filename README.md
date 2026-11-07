@@ -1,60 +1,34 @@
-# Hi, I'm Assia 👋
+# Hi, I'm Assia 
 
-🎓 **Artificial Intelligence Master's Student | Machine Learning & Computer Vision Enthusiast**
+🎓 **Artificial Intelligence Master's Student | AI & Full-Stack Development Enthusiast**
 
-I'm an Artificial Intelligence Master's student at **Université Constantine 2**, passionate about building intelligent systems and exploring the potential of AI to solve real-world problems.
-
-My interests include Machine Learning, Deep Learning, Computer Vision, and Data Science. I enjoy experimenting with AI models, working with data, and turning ideas into practical solutions.
-
-Currently exploring **Agentic AI, Advanced Machine Learning**.
+I'm an AI student at **Université Constantine 2**, passionate about Machine Learning, Deep Learning, Computer Vision, and Web Development. I enjoy building intelligent applications and turning ideas into practical solutions.
 
 ## 👩‍💻 About Me
 
-- 🎓 Master 1 Student in Artificial Intelligence – Université Constantine 2
+- 🎓 Master 1 in Artificial Intelligence
 - 📜 Bachelor's Degree in Computer Science
-- 🤖 Interested in Machine Learning, Deep Learning & Computer Vision
-- 📊 Passionate about Data Science and intelligent applications
-- 🔬 Hands-on experience with object detection and instance segmentation
-- 🚀 Currently exploring Agentic AI and MLOps
+- 🤖 Interested in Machine Learning & Computer Vision
+- 💻 Experience with Web Development using React and Django
+- 🔬 Working on Deep Learning and Object Detection
+- 🌱 Currently learning Agentic AI and MLOps
 
-## 🚀 Featured Project
+##  Featured Project
 
-### 🥗 HealthBite – AI-Powered Health & Nutrition Platform
-
-My graduation project, combining Artificial Intelligence, Computer Vision, and Nutrition.
-
-- Trained and evaluated **YOLOv11** models using Kaggle GPU infrastructure.
-- Worked with the **FoodInsSeg** dataset for food instance segmentation.
-- Performed dataset preprocessing, annotation, and preparation.
-- Explored model optimization and automated feature extraction.
-- Developed AI pipelines for food recognition and calorie estimation.
-- Integrated model outputs into APIs and backend environments.
+**🥗 HealthBite – AI-Powered Health & Nutrition Platform**
+- YOLOv11-based food instance segmentation using FoodInsSeg.
+- Dataset preprocessing, model training, and optimization.
+- AI pipelines for food recognition and calorie estimation.
+- Integration of AI models into backend APIs.
 
 ## 🛠️ Tech Stack
 
-**Programming Languages**
-- Python, Java, C, SQL, PL/SQL, Dart
-
-**AI & Machine Learning**
-- PyTorch, TensorFlow, Keras, Scikit-learn
-- OpenCV, YOLOv11
-
-**Data Science & Analysis**
-- Pandas, NumPy, Matplotlib, Seaborn
-
-**Databases & Containers**
-- Oracle 11g XE, PostgreSQL, MongoDB, Docker
-
-**Tools & Development**
-- Git, GitHub, Jupyter Notebook, Kaggle
-- Google Colab, VS Code
-
-## 🌱 Currently Learning
-
-- Agentic AI & AI Agents
-- Advanced Machine Learning
-
+- **Languages:** Python, Java, C, SQL, PL/SQL, Dart, JavaScript
+- **AI/ML:** PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, YOLOv11
+- **Web Development:** React, Django
+- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
+- **Databases & Tools:** Oracle, PostgreSQL, MongoDB, Docker, Git, GitHub, Kaggle, Jupyter, Google Colab, VS Code
 
 ## 📫 Let's Connect!
 
-I'm always interested in learning, collaborating, and contributing to exciting AI projects.
+Always open to learning, collaboration, and exciting AI & Software Development projects!
