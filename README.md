@@ -1,6 +1,6 @@
 # Hi, I'm Assia 
 
-🎓 **Artificial Intelligence Master's Student | AI & Full-Stack Development Enthusiast**
+🎓 **Artificial Intelligence Master's Student **
 
 I'm an AI student at **Université Constantine 2**, passionate about Machine Learning, Deep Learning, Computer Vision, and Web Development. I enjoy building intelligent applications and turning ideas into practical solutions.
 
@@ -11,11 +11,11 @@ I'm an AI student at **Université Constantine 2**, passionate about Machine Lea
 - 🤖 Interested in Machine Learning & Computer Vision
 - 💻 Experience with Web Development using React and Django
 - 🔬 Working on Deep Learning and Object Detection
-- 🌱 Currently learning Agentic AI and MLOps
 
 ##  Featured Project
 
 **🥗 HealthBite – AI-Powered Health & Nutrition Platform**
+My graduation project, combining Artificial Intelligence, Computer Vision, and Nutrition:
 - YOLOv11-based food instance segmentation using FoodInsSeg.
 - Dataset preprocessing, model training, and optimization.
 - AI pipelines for food recognition and calorie estimation.
